@@ -1,4 +1,5 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=28&pause=1000&color=849B91&center=true&vCenter=true&width=450&lines=%23+Do+What+You+Cant;%40MongooseOrion" alt="Typing SVG" /></a>
+## Hi there! 👋😈
 
 <!--
 **MongooseOrion/MongooseOrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
