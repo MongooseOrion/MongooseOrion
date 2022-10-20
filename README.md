@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+点击 [*此处*](https://github.com/MongooseOrion/Senses) 以查看我的仓库脉络。<br>
+Click [*Here*](https://github.com/MongooseOrion/Senses) To Enter My UNIVERSE.
