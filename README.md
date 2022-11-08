@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MongooseOrion&theme=light&layout=compact&langs_count=6" height="150"/> &nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=MongooseOrion" height="150"/> </div>
+<div align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MongooseOrion&theme=light&layout=compact&langs_count=6" height="150" alt="一个显示着作者热门语言前6的选项卡" title="Most used languages"/> &nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=MongooseOrion" height="150" alt="一个显示着作者推送项目次数概览的选项卡" title="GitHub streak" /> </div>
 
 <br>点击 [*此处*](https://github.com/MongooseOrion/Senses) 以查看我的仓库脉络。<br>
 Click [*Here*](https://github.com/MongooseOrion/Senses) To Enter My UNIVERSE.
